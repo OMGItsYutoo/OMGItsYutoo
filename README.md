@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OMGItsYutoo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMGItsYutoo&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>## Hi there 👋
+</p>
 
 <!--
 **OMGItsYutoo/OMGItsYutoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
