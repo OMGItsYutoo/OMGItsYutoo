@@ -1,8 +1,8 @@
 # 💫 About Me
 
-🎓 MSc Computer Engineering (Cybersecurity) @ UNINA
-📜 BSc Computer Engineering @ UNINA
-🛡️ CyberChallenge.IT Alumnus & 2025 National Finalist
+🎓 MSc Computer Engineering @ UNINA  
+📜 BSc Computer Engineering @ UNINA  
+🛡️ CyberChallenge.IT Alumnus & 2025 National Finalist  
 
 ---
 
